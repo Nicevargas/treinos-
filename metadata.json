@@ -1,0 +1,6 @@
+{
+  "name": "BT Acqua",
+  "description": "Rastreador premium de performance atlética aquática e treinos de natação.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
